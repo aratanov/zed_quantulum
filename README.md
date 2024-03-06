@@ -5,6 +5,9 @@
 
 * SDR Timestamping from pgreenland - https://github.com/pgreenland/plutosdr-hdl-quantulum
 
+## Requirements
+Vivado version 2021_r2
+
 ## To build:
 ```
 git clone --recursive ...
