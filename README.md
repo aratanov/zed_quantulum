@@ -1,5 +1,5 @@
 
-# Porting PlutoSDR HDL Libraries to Xilinx/AMD ZCU104 Board
+# Porting PlutoSDR HDL Libraries to Xilinx/AMD ZedBoard
 
 * HDL Reference Designs from Analog Devices - https://github.com/analogdevicesinc/hdl
 
