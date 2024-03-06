@@ -1,0 +1,3 @@
+[submodule "projects/fmcomms2/zed_qts/hdl-quantulum"]
+	path = projects/fmcomms2/zed_qts/hdl-quantulum
+	url = https://github.com/pgreenland/plutosdr-hdl-quantulum
