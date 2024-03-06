@@ -7,6 +7,7 @@
 
 ## To build:
 ```
+git clone --recursive ...
 cd ./projects/fmcomms2/zed_qts/
 make
 ```
